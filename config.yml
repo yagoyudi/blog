@@ -5,10 +5,10 @@ enableGitInfo: true
 menu:
   main:
     - name: "<u>H</u>ome"
-      url: /blog
+      url: /
       weight: 1
     - name: "<u>T</u>ags"
-      url: /blog/tags/
+      url: /tags
       weight: 3
 
 params:
