@@ -1,4 +1,4 @@
-baseURL: "yagoyudi.github.io/blog"
+baseURL: "https://yagoyudi.github.io/blog"
 languageCode: en-us
 title: "Yago Yudi"
 enableGitInfo: true
@@ -8,7 +8,7 @@ menu:
       url: /blog
       weight: 1
     - name: "<u>T</u>ags"
-      url: "/blog/tags/"
+      url: /blog/tags/
       weight: 3
 
 params:
