@@ -1,5 +1,5 @@
-module github.com/yagoyudi/yagoyudi.github.io
+module github.com/yagoyudi/blog
 
 go 1.23.3
 
-require github.com/barklan/hugo-dead-simple v1.75.64 // indirect
+require github.com/panr/hugo-theme-terminal/v4 v4.1.0 // indirect
