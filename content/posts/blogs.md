@@ -1,6 +1,5 @@
 ---
-title: "Blogs"
-date: "2024-12-12"
+title: Blogs
 ---
 
 - <https://bitfieldconsulting.com/blog>

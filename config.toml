@@ -1,8 +1,5 @@
-baseurl = "/"
+baseurl = "blog.yyvf.xyz"
 languageCode = "en-us"
-# Add it only if you keep the theme in the `themes` directory.
-# Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
 pagination.pagerSize = 5
 
 [params]
@@ -35,7 +32,7 @@ pagination.pagerSize = 5
   # updatedDatePrefix = "Updated"
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  readingTime = true
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
@@ -55,17 +52,10 @@ pagination.pagerSize = 5
   # This value can be customized according to Hugo documentation:
   # https://gohugo.io/functions/time/format/
   # Default value (no changes needed):
-  # dateFormat = "2006-01-02"
+  dateFormat = "01-02-2006"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
 
 [languages]
   [languages.en]
@@ -88,18 +78,8 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "blog.yyvf.xyz"
         logoHomeLink = "/"
-
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
