@@ -1,4 +1,4 @@
-baseurl = "blog.yyvf.xyz"
+baseurl = "yyvf.xyz"
 languageCode = "en-us"
 pagination.pagerSize = 5
 
@@ -78,7 +78,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "blog.yyvf.xyz"
+        logoText = "yyvf.xyz"
         logoHomeLink = "/"
 
 [module]
