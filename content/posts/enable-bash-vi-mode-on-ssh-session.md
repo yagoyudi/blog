@@ -1,5 +1,5 @@
 ---
-title: How to automatically enable bash's vi mode in SSH
+title: How to enable bash's vi mode in SSH sessions
 ---
 
 Stop typing `set -o vi` every time you log into a SSH server where everyone
