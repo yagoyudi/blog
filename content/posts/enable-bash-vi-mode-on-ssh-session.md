@@ -8,7 +8,7 @@ Add this to your ssh config:
 
 ```
 # ~/.ssh/config
-Host *
+Host duvel
     RequestTTY yes
     RemoteCommand bash -o vi
 ```
