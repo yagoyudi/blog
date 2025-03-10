@@ -20,6 +20,7 @@ actually use, I'm maintaining this list.
 | [nvim](https://neovim.io/) | Text editor |  
 | [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | Shell |  
 | [cheat](https://github.com/yagoyudi/cheat) | Command reference tool |  
+| [gocharge](https://github.com/yagoyudi/gocharge) | Monitor battery daemon |  
 | [mako](https://github.com/emersion/mako) | Notification daemon |  
 | [starship](https://starship.rs/) | Prompt |  
 | [glow](https://github.com/charmbracelet/glow) | TUI markdown reader |  
