@@ -19,7 +19,7 @@ actually use, I'm maintaining this list.
 | [NixOS](https://nixos.org/) | Linux distribution |  
 | [nvim](https://neovim.io/) | Text editor |  
 | [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | Shell |  
-| [cheat](https://github.com/cheat/cheat) | Command reference tool |  
+| [cheat](https://github.com/yagoyudi/cheat) | Command reference tool |  
 | [mako](https://github.com/emersion/mako) | Notification daemon |  
 | [starship](https://starship.rs/) | Prompt |  
 | [glow](https://github.com/charmbracelet/glow) | TUI markdown reader |  
