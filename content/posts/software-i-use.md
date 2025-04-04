@@ -1,5 +1,7 @@
 ---
-title: "Software I use"
+title: Software I use
+description: List of software I use 
+tags: ["linux"]
 ---
 
 My [dotfiles](https://github.com/yagoyudi/dotfiles) contain various
@@ -12,7 +14,7 @@ actually use, I'm maintaining this list.
 |------|---------|  
 | [gopass](https://www.gopass.pw/) | Secret management |  
 | [chezmoi](https://www.chezmoi.io/) | Dotfiles management |  
-| [wezterm](https://wezterm.org/index.html) | Terminal emulator and multiplexer |  
+| [foot](https://codeberg.org/dnkl/foot) | Terminal emulator |  
 | [sway](https://swaywm.org/) | Window manager |  
 | [qutebrowser](https://qutebrowser.org/) | Browser |  
 | [zathura](https://pwmt.org/projects/zathura/) | Document viewer |  

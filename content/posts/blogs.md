@@ -1,5 +1,6 @@
 ---
 title: Blogs
+description: List of blogs that I follow
 ---
 
 - <https://bitfieldconsulting.com/blog>
